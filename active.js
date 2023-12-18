@@ -117,8 +117,7 @@ function messageBoxCallback(id, result)
 // function update(deltaTime)
 // {
 // script.log("Delta time : " + deltaTime);
-// }
-
+// 
 
 function filter(inputs, minValues, maxValues, multiplexIndex)
 {
